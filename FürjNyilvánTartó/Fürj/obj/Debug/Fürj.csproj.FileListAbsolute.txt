@@ -1,0 +1,13 @@
+C:\Users\Gyebnár Róbert\source\repos\FürjNyilvánTartó\Fürj\bin\Debug\Fürj.exe.config
+C:\Users\Gyebnár Róbert\source\repos\FürjNyilvánTartó\Fürj\bin\Debug\Fürj.exe
+C:\Users\Gyebnár Róbert\source\repos\FürjNyilvánTartó\Fürj\bin\Debug\Fürj.pdb
+C:\Users\Gyebnár Róbert\source\repos\FürjNyilvánTartó\Fürj\obj\Debug\Fürj.csproj.AssemblyReference.cache
+C:\Users\Gyebnár Róbert\source\repos\FürjNyilvánTartó\Fürj\obj\Debug\Fürj.Form1.resources
+C:\Users\Gyebnár Róbert\source\repos\FürjNyilvánTartó\Fürj\obj\Debug\Fürj.Properties.Resources.resources
+C:\Users\Gyebnár Róbert\source\repos\FürjNyilvánTartó\Fürj\obj\Debug\Fürj.csproj.GenerateResource.cache
+C:\Users\Gyebnár Róbert\source\repos\FürjNyilvánTartó\Fürj\obj\Debug\Fürj.csproj.CoreCompileInputs.cache
+C:\Users\Gyebnár Róbert\source\repos\FürjNyilvánTartó\Fürj\obj\Debug\Fürj.exe
+C:\Users\Gyebnár Róbert\source\repos\FürjNyilvánTartó\Fürj\obj\Debug\Fürj.pdb
+C:\Users\Gyebnár Róbert\source\repos\FürjNyilvánTartó\Fürj\bin\Debug\ClassLibraryFürjes.dll
+C:\Users\Gyebnár Róbert\source\repos\FürjNyilvánTartó\Fürj\bin\Debug\ClassLibraryFürjes.pdb
+C:\Users\Gyebnár Róbert\source\repos\FürjNyilvánTartó\Fürj\obj\Debug\Fürj.csproj.Up2Date

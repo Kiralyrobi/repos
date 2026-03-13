@@ -1,0 +1,11 @@
+C:\Users\Gyebnár Róbert\source\repos\Könyv\KönyCon\obj\Debug\KönyCon.csproj.AssemblyReference.cache
+C:\Users\Gyebnár Róbert\source\repos\Könyv\KönyCon\obj\Debug\KönyCon.csproj.CoreCompileInputs.cache
+C:\Users\Gyebnár Róbert\source\repos\Könyv\KönyCon\bin\Debug\KönyCon.exe.config
+C:\Users\Gyebnár Róbert\source\repos\Könyv\KönyCon\bin\Debug\KönyCon.exe
+C:\Users\Gyebnár Róbert\source\repos\Könyv\KönyCon\bin\Debug\KönyCon.pdb
+C:\Users\Gyebnár Róbert\source\repos\Könyv\KönyCon\bin\Debug\KönyvClassLibrary.dll
+C:\Users\Gyebnár Róbert\source\repos\Könyv\KönyCon\bin\Debug\KönyvClassLibrary.pdb
+C:\Users\Gyebnár Róbert\source\repos\Könyv\KönyCon\obj\Debug\KönyCon.csproj.Up2Date
+C:\Users\Gyebnár Róbert\source\repos\Könyv\KönyCon\obj\Debug\KönyCon.exe
+C:\Users\Gyebnár Róbert\source\repos\Könyv\KönyCon\obj\Debug\KönyCon.pdb
+C:\Users\Gyebnár Róbert\source\repos\Könyv\KönyCon\obj\Debug\KönyCon.exe.config

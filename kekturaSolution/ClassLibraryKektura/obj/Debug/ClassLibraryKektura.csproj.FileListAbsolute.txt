@@ -1,0 +1,12 @@
+C:\Users\Zoli\source\repos\kekturaSolution\ClassLibraryKektura\bin\Debug\ClassLibraryKektura.dll
+C:\Users\Zoli\source\repos\kekturaSolution\ClassLibraryKektura\bin\Debug\ClassLibraryKektura.pdb
+C:\Users\Zoli\source\repos\kekturaSolution\ClassLibraryKektura\obj\Debug\ClassLibraryKektura.csproj.AssemblyReference.cache
+C:\Users\Zoli\source\repos\kekturaSolution\ClassLibraryKektura\obj\Debug\ClassLibraryKektura.csproj.CoreCompileInputs.cache
+C:\Users\Zoli\source\repos\kekturaSolution\ClassLibraryKektura\obj\Debug\ClassLibraryKektura.dll
+C:\Users\Zoli\source\repos\kekturaSolution\ClassLibraryKektura\obj\Debug\ClassLibraryKektura.pdb
+C:\Users\Gyebnár Róbert\source\repos\kekturaSolution\ClassLibraryKektura\bin\Debug\ClassLibraryKektura.dll
+C:\Users\Gyebnár Róbert\source\repos\kekturaSolution\ClassLibraryKektura\bin\Debug\ClassLibraryKektura.pdb
+C:\Users\Gyebnár Róbert\source\repos\kekturaSolution\ClassLibraryKektura\obj\Debug\ClassLibraryKektura.csproj.AssemblyReference.cache
+C:\Users\Gyebnár Róbert\source\repos\kekturaSolution\ClassLibraryKektura\obj\Debug\ClassLibraryKektura.csproj.CoreCompileInputs.cache
+C:\Users\Gyebnár Róbert\source\repos\kekturaSolution\ClassLibraryKektura\obj\Debug\ClassLibraryKektura.dll
+C:\Users\Gyebnár Róbert\source\repos\kekturaSolution\ClassLibraryKektura\obj\Debug\ClassLibraryKektura.pdb

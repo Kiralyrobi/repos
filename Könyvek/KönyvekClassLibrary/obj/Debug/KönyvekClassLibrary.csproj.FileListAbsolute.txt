@@ -1,0 +1,2 @@
+C:\Users\Gyebnár Róbert\source\repos\Könyvek\KönyvekClassLibrary\obj\Debug\KönyvekClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Gyebnár Róbert\source\repos\Könyvek\KönyvekClassLibrary\obj\Debug\KönyvekClassLibrary.csproj.CoreCompileInputs.cache

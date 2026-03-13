@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gyebn\u00E1r R\u00F3bert\\source\\repos\\kar\u00E1csonyfa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81CB4D0E-693E-4B3C-B7F6-26CA823B6DAE}|kar\u00E1csonyfa\\kar\u00E1csonyfa.csproj|c:\\users\\gyebn\u00E1r r\u00F3bert\\source\\repos\\kar\u00E1csonyfa\\kar\u00E1csonyfa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81CB4D0E-693E-4B3C-B7F6-26CA823B6DAE}|kar\u00E1csonyfa\\kar\u00E1csonyfa.csproj|solutionrelative:kar\u00E1csonyfa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gyebn\u00E1r R\u00F3bert\\source\\repos\\kar\u00E1csonyfa\\kar\u00E1csonyfa\\Program.cs",
+              "RelativeDocumentMoniker": "kar\u00E1csonyfa\\Program.cs",
+              "ToolTip": "C:\\Users\\Gyebn\u00E1r R\u00F3bert\\source\\repos\\kar\u00E1csonyfa\\kar\u00E1csonyfa\\Program.cs",
+              "RelativeToolTip": "kar\u00E1csonyfa\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T06:59:32.464Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

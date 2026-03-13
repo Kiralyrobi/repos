@@ -1,0 +1,6 @@
+C:\Users\Gyebnár Róbert\source\repos\FürjNyilvánTartó\ClassLibraryFürjes\bin\Debug\ClassLibraryFürjes.dll
+C:\Users\Gyebnár Róbert\source\repos\FürjNyilvánTartó\ClassLibraryFürjes\bin\Debug\ClassLibraryFürjes.pdb
+C:\Users\Gyebnár Róbert\source\repos\FürjNyilvánTartó\ClassLibraryFürjes\obj\Debug\ClassLibraryFürjes.csproj.AssemblyReference.cache
+C:\Users\Gyebnár Róbert\source\repos\FürjNyilvánTartó\ClassLibraryFürjes\obj\Debug\ClassLibraryFürjes.csproj.CoreCompileInputs.cache
+C:\Users\Gyebnár Róbert\source\repos\FürjNyilvánTartó\ClassLibraryFürjes\obj\Debug\ClassLibraryFürjes.dll
+C:\Users\Gyebnár Róbert\source\repos\FürjNyilvánTartó\ClassLibraryFürjes\obj\Debug\ClassLibraryFürjes.pdb

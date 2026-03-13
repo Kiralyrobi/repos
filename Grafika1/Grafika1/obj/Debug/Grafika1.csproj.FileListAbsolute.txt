@@ -1,0 +1,11 @@
+C:\Users\Gyebnár Róbert\source\repos\Grafika1\Grafika1\bin\Debug\Grafika1.exe.config
+C:\Users\Gyebnár Róbert\source\repos\Grafika1\Grafika1\bin\Debug\Grafika1.exe
+C:\Users\Gyebnár Róbert\source\repos\Grafika1\Grafika1\bin\Debug\Grafika1.pdb
+C:\Users\Gyebnár Róbert\source\repos\Grafika1\Grafika1\obj\Debug\Grafika1.csproj.AssemblyReference.cache
+C:\Users\Gyebnár Róbert\source\repos\Grafika1\Grafika1\obj\Debug\Grafika1.Properties.Resources.resources
+C:\Users\Gyebnár Róbert\source\repos\Grafika1\Grafika1\obj\Debug\Grafika1.csproj.GenerateResource.cache
+C:\Users\Gyebnár Róbert\source\repos\Grafika1\Grafika1\obj\Debug\Grafika1.csproj.CoreCompileInputs.cache
+C:\Users\Gyebnár Róbert\source\repos\Grafika1\Grafika1\obj\Debug\Grafika1.exe
+C:\Users\Gyebnár Róbert\source\repos\Grafika1\Grafika1\obj\Debug\Grafika1.pdb
+C:\Users\Gyebnár Róbert\source\repos\Grafika1\Grafika1\obj\Debug\Grafika1.exe.config
+C:\Users\Gyebnár Róbert\source\repos\Grafika1\Grafika1\obj\Debug\Grafika1.Form1.resources

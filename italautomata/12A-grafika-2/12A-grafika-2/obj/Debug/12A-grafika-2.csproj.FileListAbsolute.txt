@@ -1,0 +1,11 @@
+C:\Users\Zoli\source\repos\12A-grafika-2\12A-grafika-2\bin\Debug\12A-grafika-2.exe.config
+C:\Users\Zoli\source\repos\12A-grafika-2\12A-grafika-2\bin\Debug\12A-grafika-2.exe
+C:\Users\Zoli\source\repos\12A-grafika-2\12A-grafika-2\bin\Debug\12A-grafika-2.pdb
+C:\Users\Zoli\source\repos\12A-grafika-2\12A-grafika-2\obj\Debug\12A-grafika-2.csproj.AssemblyReference.cache
+C:\Users\Zoli\source\repos\12A-grafika-2\12A-grafika-2\obj\Debug\_12A_grafika_2.Form1.resources
+C:\Users\Zoli\source\repos\12A-grafika-2\12A-grafika-2\obj\Debug\_12A_grafika_2.Properties.Resources.resources
+C:\Users\Zoli\source\repos\12A-grafika-2\12A-grafika-2\obj\Debug\12A-grafika-2.csproj.GenerateResource.cache
+C:\Users\Zoli\source\repos\12A-grafika-2\12A-grafika-2\obj\Debug\12A-grafika-2.csproj.CoreCompileInputs.cache
+C:\Users\Zoli\source\repos\12A-grafika-2\12A-grafika-2\obj\Debug\12A-grafika-2.exe
+C:\Users\Zoli\source\repos\12A-grafika-2\12A-grafika-2\obj\Debug\12A-grafika-2.pdb
+C:\Users\Zoli\source\repos\12A-grafika-2\12A-grafika-2\obj\Debug\12A-grafika-2.exe.config

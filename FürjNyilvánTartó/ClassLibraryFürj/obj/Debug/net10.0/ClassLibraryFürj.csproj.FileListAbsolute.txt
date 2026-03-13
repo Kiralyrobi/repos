@@ -1,0 +1,11 @@
+C:\Users\Gyebnár Róbert\source\repos\FürjNyilvánTartó\ClassLibraryFürj\bin\Debug\net10.0\ClassLibraryFürj.deps.json
+C:\Users\Gyebnár Róbert\source\repos\FürjNyilvánTartó\ClassLibraryFürj\bin\Debug\net10.0\ClassLibraryFürj.dll
+C:\Users\Gyebnár Róbert\source\repos\FürjNyilvánTartó\ClassLibraryFürj\bin\Debug\net10.0\ClassLibraryFürj.pdb
+C:\Users\Gyebnár Róbert\source\repos\FürjNyilvánTartó\ClassLibraryFürj\obj\Debug\net10.0\ClassLibraryFürj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gyebnár Róbert\source\repos\FürjNyilvánTartó\ClassLibraryFürj\obj\Debug\net10.0\ClassLibraryFürj.AssemblyInfoInputs.cache
+C:\Users\Gyebnár Róbert\source\repos\FürjNyilvánTartó\ClassLibraryFürj\obj\Debug\net10.0\ClassLibraryFürj.AssemblyInfo.cs
+C:\Users\Gyebnár Róbert\source\repos\FürjNyilvánTartó\ClassLibraryFürj\obj\Debug\net10.0\ClassLibraryFürj.csproj.CoreCompileInputs.cache
+C:\Users\Gyebnár Róbert\source\repos\FürjNyilvánTartó\ClassLibraryFürj\obj\Debug\net10.0\ClassLibraryFürj.dll
+C:\Users\Gyebnár Róbert\source\repos\FürjNyilvánTartó\ClassLibraryFürj\obj\Debug\net10.0\refint\ClassLibraryFürj.dll
+C:\Users\Gyebnár Róbert\source\repos\FürjNyilvánTartó\ClassLibraryFürj\obj\Debug\net10.0\ClassLibraryFürj.pdb
+C:\Users\Gyebnár Róbert\source\repos\FürjNyilvánTartó\ClassLibraryFürj\obj\Debug\net10.0\ref\ClassLibraryFürj.dll

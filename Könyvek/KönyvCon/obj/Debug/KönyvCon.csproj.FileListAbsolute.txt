@@ -1,0 +1,2 @@
+C:\Users\Gyebnár Róbert\source\repos\Könyvek\KönyvCon\obj\Debug\KönyvCon.csproj.AssemblyReference.cache
+C:\Users\Gyebnár Róbert\source\repos\Könyvek\KönyvCon\obj\Debug\KönyvCon.csproj.CoreCompileInputs.cache

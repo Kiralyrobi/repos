@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36705.20 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SikidomCon", "SikidomCon\SikidomCon.csproj", "{978A8E36-4104-4798-8993-2A910FBC7705}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SikidomClassLibrary", "SikidomClassLibrary\SikidomClassLibrary.csproj", "{D4C6D2B0-EDDB-4EBE-8583-A82DF30D53FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{978A8E36-4104-4798-8993-2A910FBC7705}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{978A8E36-4104-4798-8993-2A910FBC7705}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{978A8E36-4104-4798-8993-2A910FBC7705}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{978A8E36-4104-4798-8993-2A910FBC7705}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4C6D2B0-EDDB-4EBE-8583-A82DF30D53FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4C6D2B0-EDDB-4EBE-8583-A82DF30D53FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4C6D2B0-EDDB-4EBE-8583-A82DF30D53FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4C6D2B0-EDDB-4EBE-8583-A82DF30D53FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87910D64-3EEA-4E68-A7CD-FF236B6D76CA}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,27 @@
+C:\Users\Zoli\source\repos\kekturaSolution\kekturaForm\bin\Debug\kekturaForm.exe.config
+C:\Users\Zoli\source\repos\kekturaSolution\kekturaForm\bin\Debug\kekturaForm.exe
+C:\Users\Zoli\source\repos\kekturaSolution\kekturaForm\bin\Debug\kekturaForm.pdb
+C:\Users\Zoli\source\repos\kekturaSolution\kekturaForm\bin\Debug\ClassLibraryKektura.dll
+C:\Users\Zoli\source\repos\kekturaSolution\kekturaForm\bin\Debug\ClassLibraryKektura.pdb
+C:\Users\Zoli\source\repos\kekturaSolution\kekturaForm\obj\Debug\kekturaForm.csproj.AssemblyReference.cache
+C:\Users\Zoli\source\repos\kekturaSolution\kekturaForm\obj\Debug\kekturaForm.Form1.resources
+C:\Users\Zoli\source\repos\kekturaSolution\kekturaForm\obj\Debug\kekturaForm.Properties.Resources.resources
+C:\Users\Zoli\source\repos\kekturaSolution\kekturaForm\obj\Debug\kekturaForm.csproj.GenerateResource.cache
+C:\Users\Zoli\source\repos\kekturaSolution\kekturaForm\obj\Debug\kekturaForm.csproj.CoreCompileInputs.cache
+C:\Users\Zoli\source\repos\kekturaSolution\kekturaForm\obj\Debug\kekturaF.ABBB792A.Up2Date
+C:\Users\Zoli\source\repos\kekturaSolution\kekturaForm\obj\Debug\kekturaForm.exe
+C:\Users\Zoli\source\repos\kekturaSolution\kekturaForm\obj\Debug\kekturaForm.pdb
+C:\Users\Zoli\source\repos\kekturaSolution\kekturaForm\obj\Debug\kekturaForm.exe.config
+C:\Users\Gyebnár Róbert\source\repos\kekturaSolution\kekturaForm\bin\Debug\kekturaForm.exe.config
+C:\Users\Gyebnár Róbert\source\repos\kekturaSolution\kekturaForm\bin\Debug\kekturaForm.exe
+C:\Users\Gyebnár Róbert\source\repos\kekturaSolution\kekturaForm\bin\Debug\kekturaForm.pdb
+C:\Users\Gyebnár Róbert\source\repos\kekturaSolution\kekturaForm\bin\Debug\ClassLibraryKektura.dll
+C:\Users\Gyebnár Róbert\source\repos\kekturaSolution\kekturaForm\bin\Debug\ClassLibraryKektura.pdb
+C:\Users\Gyebnár Róbert\source\repos\kekturaSolution\kekturaForm\obj\Debug\kekturaForm.csproj.AssemblyReference.cache
+C:\Users\Gyebnár Róbert\source\repos\kekturaSolution\kekturaForm\obj\Debug\kekturaForm.Form1.resources
+C:\Users\Gyebnár Róbert\source\repos\kekturaSolution\kekturaForm\obj\Debug\kekturaForm.Properties.Resources.resources
+C:\Users\Gyebnár Róbert\source\repos\kekturaSolution\kekturaForm\obj\Debug\kekturaForm.csproj.GenerateResource.cache
+C:\Users\Gyebnár Róbert\source\repos\kekturaSolution\kekturaForm\obj\Debug\kekturaForm.csproj.CoreCompileInputs.cache
+C:\Users\Gyebnár Róbert\source\repos\kekturaSolution\kekturaForm\obj\Debug\kekturaF.ABBB792A.Up2Date
+C:\Users\Gyebnár Róbert\source\repos\kekturaSolution\kekturaForm\obj\Debug\kekturaForm.exe
+C:\Users\Gyebnár Róbert\source\repos\kekturaSolution\kekturaForm\obj\Debug\kekturaForm.pdb

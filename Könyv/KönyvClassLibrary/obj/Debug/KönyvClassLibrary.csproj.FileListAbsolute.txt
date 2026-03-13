@@ -1,0 +1,6 @@
+C:\Users\Gyebnár Róbert\source\repos\Könyv\KönyvClassLibrary\obj\Debug\KönyvClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Gyebnár Róbert\source\repos\Könyv\KönyvClassLibrary\obj\Debug\KönyvClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Gyebnár Róbert\source\repos\Könyv\KönyvClassLibrary\bin\Debug\KönyvClassLibrary.dll
+C:\Users\Gyebnár Róbert\source\repos\Könyv\KönyvClassLibrary\bin\Debug\KönyvClassLibrary.pdb
+C:\Users\Gyebnár Róbert\source\repos\Könyv\KönyvClassLibrary\obj\Debug\KönyvClassLibrary.dll
+C:\Users\Gyebnár Róbert\source\repos\Könyv\KönyvClassLibrary\obj\Debug\KönyvClassLibrary.pdb

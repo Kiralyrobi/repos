@@ -1,0 +1,11 @@
+C:\Users\Gyebnár Róbert\source\repos\Sikidomok\SikidomCon\obj\Debug\SikidomCon.csproj.AssemblyReference.cache
+C:\Users\Gyebnár Róbert\source\repos\Sikidomok\SikidomCon\obj\Debug\SikidomCon.csproj.CoreCompileInputs.cache
+C:\Users\Gyebnár Róbert\source\repos\Sikidomok\SikidomCon\bin\Debug\SikidomCon.exe.config
+C:\Users\Gyebnár Róbert\source\repos\Sikidomok\SikidomCon\bin\Debug\SikidomCon.exe
+C:\Users\Gyebnár Róbert\source\repos\Sikidomok\SikidomCon\bin\Debug\SikidomCon.pdb
+C:\Users\Gyebnár Róbert\source\repos\Sikidomok\SikidomCon\bin\Debug\SikidomClassLibrary.dll
+C:\Users\Gyebnár Róbert\source\repos\Sikidomok\SikidomCon\bin\Debug\SikidomClassLibrary.pdb
+C:\Users\Gyebnár Róbert\source\repos\Sikidomok\SikidomCon\obj\Debug\SikidomCon.csproj.Up2Date
+C:\Users\Gyebnár Róbert\source\repos\Sikidomok\SikidomCon\obj\Debug\SikidomCon.exe
+C:\Users\Gyebnár Róbert\source\repos\Sikidomok\SikidomCon\obj\Debug\SikidomCon.pdb
+C:\Users\Gyebnár Róbert\source\repos\Sikidomok\SikidomCon\obj\Debug\SikidomCon.exe.config
