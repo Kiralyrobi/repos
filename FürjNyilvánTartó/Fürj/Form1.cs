@@ -101,7 +101,7 @@ namespace Fürj
                 textBoxFaj.Clear();
                 textBoxEletkor.Clear();
                 radioButtonIgen.Checked = false;
-                radioButtonNem.Checked = false;
+                radioButtonNem.Checked = false ;
 
                 MessageBox.Show("Adatok sikeresen hozzáadva a listához!");
 
