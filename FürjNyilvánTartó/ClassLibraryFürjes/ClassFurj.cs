@@ -13,7 +13,7 @@ namespace ClassLibraryFürjes
     {
         public int Sorszam { get; private set; }
         public string Fajta { get; private set; }
-        public int TojikE { get; private set; }
+        public string TojikE { get; private set; }
         public int Eletkor { get; private set; }
         public static List<ClassFurj> FürjekLista = new List<ClassFurj>();
         public ClassFurj(string sor)
@@ -22,7 +22,7 @@ namespace ClassLibraryFürjes
 
             this.Sorszam = int.Parse(db[0]);
             this.Fajta = db[1];
-            this.TojikE = db[2].ToLower()=="igen"? 1:0;
+            this.TojikE = db[2];
             this.Eletkor = int.Parse(db[3]);
 
             FürjekLista.Add(this);

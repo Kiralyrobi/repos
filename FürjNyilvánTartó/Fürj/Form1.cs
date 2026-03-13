@@ -84,7 +84,7 @@ namespace Fürj
 
                 if (ClassFurj.FürjekLista.Any(furj => furj.Sorszam == sorszam))
                 {
-                    MessageBox.Show("Már létezik ilyen sorszámú fürj!","Hiba" MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    MessageBox.Show("Már létezik ilyen sorszámú fürj!","Hiba", MessageBoxButtons.OK, MessageBoxIcon.Error);
                     return;
                 }
 
@@ -95,7 +95,7 @@ namespace Fürj
 
                 ClassFurj ujFurj = new ClassFurj(sor);
 
-                FurjekListaja.Items.Add(ujFurj.Sorszam + "\t" + ujFurj.Fajta + "\t" + (ujFurj.TojikE == 1 ? "Igen" : "Nem") + "\t" + ujFurj.Eletkor);
+                FurjekListaja.Items.Add(ujFurj.Sorszam + "\t" + ujFurj.Fajta + "\t" + ujFurj.TojikE + "\t" + ujFurj.Eletkor);
 
                 textBoxFurjekSorszama.Clear();
                 textBoxFaj.Clear();
