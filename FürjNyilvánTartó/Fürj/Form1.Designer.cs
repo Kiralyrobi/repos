@@ -35,7 +35,6 @@
             this.groupBoxKozos = new System.Windows.Forms.GroupBox();
             this.buttonHozzaad = new System.Windows.Forms.Button();
             this.groupBoxFaj = new System.Windows.Forms.GroupBox();
-            this.textBoxFaj = new System.Windows.Forms.TextBox();
             this.labelFaj = new System.Windows.Forms.Label();
             this.groupBoxEletkor = new System.Windows.Forms.GroupBox();
             this.textBoxEletkor = new System.Windows.Forms.TextBox();
@@ -49,28 +48,31 @@
             this.FurjekListaja = new System.Windows.Forms.ListBox();
             this.buttonFurjKepek = new System.Windows.Forms.Button();
             this.groupBoxFurjKep = new System.Windows.Forms.GroupBox();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.labelJapanFurjKep = new System.Windows.Forms.Label();
-            this.labelTexasFurjKep = new System.Windows.Forms.Label();
-            this.labelPolaraGigantFurj = new System.Windows.Forms.Label();
-            this.labelJumboFurjKep = new System.Windows.Forms.Label();
-            this.pictureBox2 = new System.Windows.Forms.PictureBox();
-            this.pictureBox3 = new System.Windows.Forms.PictureBox();
-            this.pictureBox4 = new System.Windows.Forms.PictureBox();
-            this.pictureBox5 = new System.Windows.Forms.PictureBox();
             this.labelSmokingFurjKep = new System.Windows.Forms.Label();
+            this.pictureBox5 = new System.Windows.Forms.PictureBox();
+            this.pictureBox4 = new System.Windows.Forms.PictureBox();
+            this.pictureBox3 = new System.Windows.Forms.PictureBox();
+            this.pictureBox2 = new System.Windows.Forms.PictureBox();
+            this.labelJumboFurjKep = new System.Windows.Forms.Label();
+            this.labelPolaraGigantFurj = new System.Windows.Forms.Label();
+            this.labelTexasFurjKep = new System.Windows.Forms.Label();
+            this.labelJapanFurjKep = new System.Windows.Forms.Label();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.buttonFurjesKep = new System.Windows.Forms.Button();
+            this.buttonMenu = new System.Windows.Forms.Button();
+            this.textBoxFaj = new System.Windows.Forms.TextBox();
+            this.buttonFoOldal = new System.Windows.Forms.Button();
             this.groupBoxFurjekSorszama.SuspendLayout();
             this.groupBoxKozos.SuspendLayout();
             this.groupBoxFaj.SuspendLayout();
             this.groupBoxEletkor.SuspendLayout();
             this.groupBox1.SuspendLayout();
             this.groupBoxFurjKep.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // groupBoxFurjekSorszama
@@ -136,13 +138,6 @@
             this.groupBoxFaj.TabStop = false;
             this.groupBoxFaj.Text = "Fürj fajtája";
             this.groupBoxFaj.Enter += new System.EventHandler(this.groupBoxFaj_Enter);
-            // 
-            // textBoxFaj
-            // 
-            this.textBoxFaj.Location = new System.Drawing.Point(93, 48);
-            this.textBoxFaj.Name = "textBoxFaj";
-            this.textBoxFaj.Size = new System.Drawing.Size(100, 20);
-            this.textBoxFaj.TabIndex = 1;
             // 
             // labelFaj
             // 
@@ -225,22 +220,24 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(172, 15);
+            this.button1.Location = new System.Drawing.Point(137, 15);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(156, 24);
             this.button1.TabIndex = 5;
             this.button1.Text = "Új fürj bevitel";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Visible = false;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // buttonFurjekListaja
             // 
-            this.buttonFurjekListaja.Location = new System.Drawing.Point(588, 15);
+            this.buttonFurjekListaja.Location = new System.Drawing.Point(348, 12);
             this.buttonFurjekListaja.Name = "buttonFurjekListaja";
             this.buttonFurjekListaja.Size = new System.Drawing.Size(155, 24);
             this.buttonFurjekListaja.TabIndex = 6;
             this.buttonFurjekListaja.Text = "Fürjek listája";
             this.buttonFurjekListaja.UseVisualStyleBackColor = true;
+            this.buttonFurjekListaja.Visible = false;
             this.buttonFurjekListaja.Click += new System.EventHandler(this.buttonFurjekListaja_Click);
             // 
             // FurjekListaja
@@ -282,83 +279,14 @@
             this.groupBoxFurjKep.Text = "Fürj képek";
             this.groupBoxFurjKep.Visible = false;
             // 
-            // pictureBox1
+            // labelSmokingFurjKep
             // 
-            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.ImageLocation = "";
-            this.pictureBox1.Location = new System.Drawing.Point(22, 54);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(116, 126);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox1.TabIndex = 0;
-            this.pictureBox1.TabStop = false;
-            // 
-            // labelJapanFurjKep
-            // 
-            this.labelJapanFurjKep.AutoSize = true;
-            this.labelJapanFurjKep.Location = new System.Drawing.Point(47, 38);
-            this.labelJapanFurjKep.Name = "labelJapanFurjKep";
-            this.labelJapanFurjKep.Size = new System.Drawing.Size(53, 13);
-            this.labelJapanFurjKep.TabIndex = 2;
-            this.labelJapanFurjKep.Text = "Japán fürj";
-            // 
-            // labelTexasFurjKep
-            // 
-            this.labelTexasFurjKep.AutoSize = true;
-            this.labelTexasFurjKep.Location = new System.Drawing.Point(184, 38);
-            this.labelTexasFurjKep.Name = "labelTexasFurjKep";
-            this.labelTexasFurjKep.Size = new System.Drawing.Size(53, 13);
-            this.labelTexasFurjKep.TabIndex = 3;
-            this.labelTexasFurjKep.Text = "Texas fürj";
-            this.labelTexasFurjKep.Click += new System.EventHandler(this.labelTexasFurjKep_Click);
-            // 
-            // labelPolaraGigantFurj
-            // 
-            this.labelPolaraGigantFurj.AutoSize = true;
-            this.labelPolaraGigantFurj.Location = new System.Drawing.Point(296, 38);
-            this.labelPolaraGigantFurj.Name = "labelPolaraGigantFurj";
-            this.labelPolaraGigantFurj.Size = new System.Drawing.Size(86, 13);
-            this.labelPolaraGigantFurj.TabIndex = 4;
-            this.labelPolaraGigantFurj.Text = "Polara gigant fürj";
-            // 
-            // labelJumboFurjKep
-            // 
-            this.labelJumboFurjKep.AutoSize = true;
-            this.labelJumboFurjKep.Location = new System.Drawing.Point(460, 38);
-            this.labelJumboFurjKep.Name = "labelJumboFurjKep";
-            this.labelJumboFurjKep.Size = new System.Drawing.Size(55, 13);
-            this.labelJumboFurjKep.TabIndex = 5;
-            this.labelJumboFurjKep.Text = "Jumbo fürj";
-            // 
-            // pictureBox2
-            // 
-            this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
-            this.pictureBox2.Location = new System.Drawing.Point(156, 54);
-            this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(116, 126);
-            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox2.TabIndex = 6;
-            this.pictureBox2.TabStop = false;
-            // 
-            // pictureBox3
-            // 
-            this.pictureBox3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox3.Image")));
-            this.pictureBox3.Location = new System.Drawing.Point(286, 54);
-            this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(116, 126);
-            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox3.TabIndex = 7;
-            this.pictureBox3.TabStop = false;
-            // 
-            // pictureBox4
-            // 
-            this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
-            this.pictureBox4.Location = new System.Drawing.Point(427, 54);
-            this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(116, 126);
-            this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox4.TabIndex = 8;
-            this.pictureBox4.TabStop = false;
+            this.labelSmokingFurjKep.AutoSize = true;
+            this.labelSmokingFurjKep.Location = new System.Drawing.Point(591, 38);
+            this.labelSmokingFurjKep.Name = "labelSmokingFurjKep";
+            this.labelSmokingFurjKep.Size = new System.Drawing.Size(65, 13);
+            this.labelSmokingFurjKep.TabIndex = 10;
+            this.labelSmokingFurjKep.Text = "Smoking fürj";
             // 
             // pictureBox5
             // 
@@ -370,32 +298,134 @@
             this.pictureBox5.TabIndex = 9;
             this.pictureBox5.TabStop = false;
             // 
-            // labelSmokingFurjKep
+            // pictureBox4
             // 
-            this.labelSmokingFurjKep.AutoSize = true;
-            this.labelSmokingFurjKep.Location = new System.Drawing.Point(591, 38);
-            this.labelSmokingFurjKep.Name = "labelSmokingFurjKep";
-            this.labelSmokingFurjKep.Size = new System.Drawing.Size(65, 13);
-            this.labelSmokingFurjKep.TabIndex = 10;
-            this.labelSmokingFurjKep.Text = "Smoking fürj";
+            this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
+            this.pictureBox4.Location = new System.Drawing.Point(427, 54);
+            this.pictureBox4.Name = "pictureBox4";
+            this.pictureBox4.Size = new System.Drawing.Size(116, 126);
+            this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox4.TabIndex = 8;
+            this.pictureBox4.TabStop = false;
+            // 
+            // pictureBox3
+            // 
+            this.pictureBox3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox3.Image")));
+            this.pictureBox3.Location = new System.Drawing.Point(286, 54);
+            this.pictureBox3.Name = "pictureBox3";
+            this.pictureBox3.Size = new System.Drawing.Size(116, 126);
+            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox3.TabIndex = 7;
+            this.pictureBox3.TabStop = false;
+            // 
+            // pictureBox2
+            // 
+            this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
+            this.pictureBox2.Location = new System.Drawing.Point(156, 54);
+            this.pictureBox2.Name = "pictureBox2";
+            this.pictureBox2.Size = new System.Drawing.Size(116, 126);
+            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox2.TabIndex = 6;
+            this.pictureBox2.TabStop = false;
+            // 
+            // labelJumboFurjKep
+            // 
+            this.labelJumboFurjKep.AutoSize = true;
+            this.labelJumboFurjKep.Location = new System.Drawing.Point(460, 38);
+            this.labelJumboFurjKep.Name = "labelJumboFurjKep";
+            this.labelJumboFurjKep.Size = new System.Drawing.Size(55, 13);
+            this.labelJumboFurjKep.TabIndex = 5;
+            this.labelJumboFurjKep.Text = "Jumbo fürj";
+            // 
+            // labelPolaraGigantFurj
+            // 
+            this.labelPolaraGigantFurj.AutoSize = true;
+            this.labelPolaraGigantFurj.Location = new System.Drawing.Point(296, 38);
+            this.labelPolaraGigantFurj.Name = "labelPolaraGigantFurj";
+            this.labelPolaraGigantFurj.Size = new System.Drawing.Size(86, 13);
+            this.labelPolaraGigantFurj.TabIndex = 4;
+            this.labelPolaraGigantFurj.Text = "Polara gigant fürj";
+            // 
+            // labelTexasFurjKep
+            // 
+            this.labelTexasFurjKep.AutoSize = true;
+            this.labelTexasFurjKep.Location = new System.Drawing.Point(184, 38);
+            this.labelTexasFurjKep.Name = "labelTexasFurjKep";
+            this.labelTexasFurjKep.Size = new System.Drawing.Size(53, 13);
+            this.labelTexasFurjKep.TabIndex = 3;
+            this.labelTexasFurjKep.Text = "Texas fürj";
+            this.labelTexasFurjKep.Click += new System.EventHandler(this.labelTexasFurjKep_Click);
+            // 
+            // labelJapanFurjKep
+            // 
+            this.labelJapanFurjKep.AutoSize = true;
+            this.labelJapanFurjKep.Location = new System.Drawing.Point(47, 38);
+            this.labelJapanFurjKep.Name = "labelJapanFurjKep";
+            this.labelJapanFurjKep.Size = new System.Drawing.Size(53, 13);
+            this.labelJapanFurjKep.TabIndex = 2;
+            this.labelJapanFurjKep.Text = "Japán fürj";
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
+            this.pictureBox1.ImageLocation = "";
+            this.pictureBox1.Location = new System.Drawing.Point(22, 54);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(116, 126);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 0;
+            this.pictureBox1.TabStop = false;
             // 
             // buttonFurjesKep
             // 
-            this.buttonFurjesKep.Location = new System.Drawing.Point(159, 382);
+            this.buttonFurjesKep.Location = new System.Drawing.Point(526, 13);
             this.buttonFurjesKep.Name = "buttonFurjesKep";
             this.buttonFurjesKep.Size = new System.Drawing.Size(179, 23);
             this.buttonFurjesKep.TabIndex = 11;
             this.buttonFurjesKep.Text = "Fürj képek";
             this.buttonFurjesKep.UseVisualStyleBackColor = true;
+            this.buttonFurjesKep.Visible = false;
             this.buttonFurjesKep.Click += new System.EventHandler(this.buttonFurjesKep_Click);
+            // 
+            // buttonMenu
+            // 
+            this.buttonMenu.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.buttonMenu.Location = new System.Drawing.Point(286, 374);
+            this.buttonMenu.Name = "buttonMenu";
+            this.buttonMenu.Size = new System.Drawing.Size(265, 36);
+            this.buttonMenu.TabIndex = 12;
+            this.buttonMenu.Text = "MENÜ";
+            this.buttonMenu.UseVisualStyleBackColor = true;
+            this.buttonMenu.Click += new System.EventHandler(this.buttonMenu_Click);
+            // 
+            // textBoxFaj
+            // 
+            this.textBoxFaj.Location = new System.Drawing.Point(93, 48);
+            this.textBoxFaj.Name = "textBoxFaj";
+            this.textBoxFaj.Size = new System.Drawing.Size(100, 20);
+            this.textBoxFaj.TabIndex = 1;
+            // 
+            // buttonFoOldal
+            // 
+            this.buttonFoOldal.Location = new System.Drawing.Point(554, 678);
+            this.buttonFoOldal.Name = "buttonFoOldal";
+            this.buttonFoOldal.Size = new System.Drawing.Size(277, 29);
+            this.buttonFoOldal.TabIndex = 14;
+            this.buttonFoOldal.Text = "Vissza a főoldalra";
+            this.buttonFoOldal.UseVisualStyleBackColor = true;
+            this.buttonFoOldal.Visible = false;
+            this.buttonFoOldal.Click += new System.EventHandler(this.buttonFoOldal_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoSize = true;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(846, 696);
+            this.ClientSize = new System.Drawing.Size(855, 710);
+            this.Controls.Add(this.buttonFoOldal);
+            this.Controls.Add(this.buttonMenu);
             this.Controls.Add(this.buttonFurjesKep);
             this.Controls.Add(this.buttonFurjKepek);
             this.Controls.Add(this.groupBoxFurjKep);
@@ -404,7 +434,7 @@
             this.Controls.Add(this.button1);
             this.Controls.Add(this.groupBoxKozos);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Fürjfarm nyilvántartó alkalmazás";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.groupBoxFurjekSorszama.ResumeLayout(false);
             this.groupBoxFurjekSorszama.PerformLayout();
@@ -417,11 +447,11 @@
             this.groupBox1.PerformLayout();
             this.groupBoxFurjKep.ResumeLayout(false);
             this.groupBoxFurjKep.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -440,7 +470,6 @@
         private System.Windows.Forms.TextBox textBoxEletkor;
         private System.Windows.Forms.Label labelEletkor;
         private System.Windows.Forms.GroupBox groupBoxFaj;
-        private System.Windows.Forms.TextBox textBoxFaj;
         private System.Windows.Forms.Label labelFaj;
         private System.Windows.Forms.Button buttonFurjekListaja;
         private System.Windows.Forms.ListBox FurjekListaja;
@@ -458,6 +487,9 @@
         private System.Windows.Forms.Label labelSmokingFurjKep;
         private System.Windows.Forms.PictureBox pictureBox5;
         private System.Windows.Forms.Button buttonFurjesKep;
+        private System.Windows.Forms.Button buttonMenu;
+        private System.Windows.Forms.TextBox textBoxFaj;
+        private System.Windows.Forms.Button buttonFoOldal;
     }
 }
 

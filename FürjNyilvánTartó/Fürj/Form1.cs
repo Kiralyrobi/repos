@@ -140,5 +140,26 @@ namespace Fürj
 
             }
         }
+
+        private void buttonMenu_Click(object sender, EventArgs e)
+        {
+            if (buttonMenu.Text == "MENÜ")
+            {
+                button1.Visible = true;
+                buttonFurjekListaja.Visible = true;
+                buttonFurjesKep.Visible = true;
+                buttonFoOldal.Visible = true;
+
+                buttonMenu.Visible = false;
+            }
+        }
+
+        private void buttonFoOldal_Click(object sender, EventArgs e)
+        {
+            buttonMenu.Visible = true;
+            button1.Visible = false;
+            buttonFurjekListaja.Visible = false;
+            buttonFurjesKep.Visible = false;
+        }
     }
 }
