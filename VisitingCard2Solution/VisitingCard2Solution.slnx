@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ClassLibrary1Visiting/ClassLibrary1Visiting.csproj" Id="abe1078e-8a64-4c9c-9a18-26e014ea4bdf" />
+  <Project Path="VisitingCard2/VisitingCard2.csproj" Id="6a29b728-f263-4ff1-9608-c48b82fe6d8a" />
+  <Project Path="WindowsFormsAppVisiting/WindowsFormsAppVisiting.csproj" Id="3c2760ba-e61f-4edd-ad1b-fbd85a2cf364" />
+</Solution>

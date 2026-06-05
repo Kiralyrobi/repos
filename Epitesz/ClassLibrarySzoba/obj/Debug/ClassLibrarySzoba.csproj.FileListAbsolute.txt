@@ -1,0 +1,6 @@
+C:\Users\Zoli\source\repos\Epitesz\ClassLibrarySzoba\bin\Debug\ClassLibrarySzoba.dll
+C:\Users\Zoli\source\repos\Epitesz\ClassLibrarySzoba\bin\Debug\ClassLibrarySzoba.pdb
+C:\Users\Zoli\source\repos\Epitesz\ClassLibrarySzoba\obj\Debug\ClassLibrarySzoba.csproj.AssemblyReference.cache
+C:\Users\Zoli\source\repos\Epitesz\ClassLibrarySzoba\obj\Debug\ClassLibrarySzoba.csproj.CoreCompileInputs.cache
+C:\Users\Zoli\source\repos\Epitesz\ClassLibrarySzoba\obj\Debug\ClassLibrarySzoba.dll
+C:\Users\Zoli\source\repos\Epitesz\ClassLibrarySzoba\obj\Debug\ClassLibrarySzoba.pdb

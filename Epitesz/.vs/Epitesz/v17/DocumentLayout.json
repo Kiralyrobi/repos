@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Zoli\\source\\repos\\Epitesz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F340054-D16C-45FE-AA07-100093D3AE26}|WpfSzoba\\WpfSzoba.csproj|c:\\users\\zoli\\source\\repos\\epitesz\\wpfszoba\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0F340054-D16C-45FE-AA07-100093D3AE26}|WpfSzoba\\WpfSzoba.csproj|solutionrelative:wpfszoba\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F340054-D16C-45FE-AA07-100093D3AE26}|WpfSzoba\\WpfSzoba.csproj|C:\\Users\\Zoli\\source\\repos\\Epitesz\\wpfszoba\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F340054-D16C-45FE-AA07-100093D3AE26}|WpfSzoba\\WpfSzoba.csproj|solutionrelative:wpfszoba\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBAE5998-7A7C-4BFF-8E05-1DB6630B424D}|WindowsFormsSzoba\\WindowsFormsSzoba.csproj|C:\\Users\\Zoli\\source\\repos\\Epitesz\\windowsformsszoba\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBAE5998-7A7C-4BFF-8E05-1DB6630B424D}|WindowsFormsSzoba\\WindowsFormsSzoba.csproj|solutionrelative:windowsformsszoba\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBAE5998-7A7C-4BFF-8E05-1DB6630B424D}|WindowsFormsSzoba\\WindowsFormsSzoba.csproj|C:\\Users\\Zoli\\source\\repos\\Epitesz\\windowsformsszoba\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DBAE5998-7A7C-4BFF-8E05-1DB6630B424D}|WindowsFormsSzoba\\WindowsFormsSzoba.csproj|solutionrelative:windowsformsszoba\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6891338-A208-4161-B5BA-23A7F8794BE3}|ConsoleSzoba\\ConsoleSzoba.csproj|C:\\Users\\Zoli\\source\\repos\\Epitesz\\consoleszoba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6891338-A208-4161-B5BA-23A7F8794BE3}|ConsoleSzoba\\ConsoleSzoba.csproj|solutionrelative:consoleszoba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34207003-2651-4294-897C-037CC0D5773D}|ClassLibrarySzoba\\ClassLibrarySzoba.csproj|C:\\Users\\Zoli\\source\\repos\\Epitesz\\classlibraryszoba\\szoba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34207003-2651-4294-897C-037CC0D5773D}|ClassLibrarySzoba\\ClassLibrarySzoba.csproj|solutionrelative:classlibraryszoba\\szoba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Zoli\\source\\repos\\Epitesz\\WpfSzoba\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfSzoba\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Zoli\\source\\repos\\Epitesz\\WpfSzoba\\MainWindow.xaml",
+              "RelativeToolTip": "WpfSzoba\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-30T10:27:03.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Zoli\\source\\repos\\Epitesz\\WpfSzoba\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfSzoba\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Zoli\\source\\repos\\Epitesz\\WpfSzoba\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfSzoba\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T10:27:03.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Zoli\\source\\repos\\Epitesz\\WindowsFormsSzoba\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsSzoba\\Form1.cs",
+              "ToolTip": "C:\\Users\\Zoli\\source\\repos\\Epitesz\\WindowsFormsSzoba\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsSzoba\\Form1.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAswCYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T10:10:12.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Zoli\\source\\repos\\Epitesz\\WindowsFormsSzoba\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsSzoba\\Form1.cs",
+              "ToolTip": "C:\\Users\\Zoli\\source\\repos\\Epitesz\\WindowsFormsSzoba\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsSzoba\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T09:57:17.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Zoli\\source\\repos\\Epitesz\\ConsoleSzoba\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleSzoba\\Program.cs",
+              "ToolTip": "C:\\Users\\Zoli\\source\\repos\\Epitesz\\ConsoleSzoba\\Program.cs",
+              "RelativeToolTip": "ConsoleSzoba\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T09:23:19.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Szoba.cs",
+              "DocumentMoniker": "C:\\Users\\Zoli\\source\\repos\\Epitesz\\ClassLibrarySzoba\\Szoba.cs",
+              "RelativeDocumentMoniker": "ClassLibrarySzoba\\Szoba.cs",
+              "ToolTip": "C:\\Users\\Zoli\\source\\repos\\Epitesz\\ClassLibrarySzoba\\Szoba.cs",
+              "RelativeToolTip": "ClassLibrarySzoba\\Szoba.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAqwCQAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T09:07:46.255Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

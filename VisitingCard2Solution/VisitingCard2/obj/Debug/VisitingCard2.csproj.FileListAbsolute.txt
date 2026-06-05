@@ -1,0 +1,10 @@
+C:\Users\Gyebnár Róbert\source\repos\VisitingCard2Solution\VisitingCard2\obj\Debug\VisitingCard2.csproj.AssemblyReference.cache
+C:\Users\Gyebnár Róbert\source\repos\VisitingCard2Solution\VisitingCard2\obj\Debug\VisitingCard2.csproj.CoreCompileInputs.cache
+C:\Users\Gyebnár Róbert\source\repos\VisitingCard2Solution\VisitingCard2\bin\Debug\VisitingCard2.exe.config
+C:\Users\Gyebnár Róbert\source\repos\VisitingCard2Solution\VisitingCard2\bin\Debug\VisitingCard2.exe
+C:\Users\Gyebnár Róbert\source\repos\VisitingCard2Solution\VisitingCard2\bin\Debug\VisitingCard2.pdb
+C:\Users\Gyebnár Róbert\source\repos\VisitingCard2Solution\VisitingCard2\bin\Debug\ClassLibrary1Visiting.dll
+C:\Users\Gyebnár Róbert\source\repos\VisitingCard2Solution\VisitingCard2\bin\Debug\ClassLibrary1Visiting.pdb
+C:\Users\Gyebnár Róbert\source\repos\VisitingCard2Solution\VisitingCard2\obj\Debug\Visiting.E5282CCA.Up2Date
+C:\Users\Gyebnár Róbert\source\repos\VisitingCard2Solution\VisitingCard2\obj\Debug\VisitingCard2.exe
+C:\Users\Gyebnár Róbert\source\repos\VisitingCard2Solution\VisitingCard2\obj\Debug\VisitingCard2.pdb

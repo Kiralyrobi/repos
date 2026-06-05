@@ -1,0 +1,11 @@
+C:\Users\Zoli\source\repos\Epitesz\ConsoleSzoba\bin\Debug\ConsoleSzoba.exe.config
+C:\Users\Zoli\source\repos\Epitesz\ConsoleSzoba\bin\Debug\ConsoleSzoba.exe
+C:\Users\Zoli\source\repos\Epitesz\ConsoleSzoba\bin\Debug\ConsoleSzoba.pdb
+C:\Users\Zoli\source\repos\Epitesz\ConsoleSzoba\bin\Debug\ClassLibrarySzoba.dll
+C:\Users\Zoli\source\repos\Epitesz\ConsoleSzoba\bin\Debug\ClassLibrarySzoba.pdb
+C:\Users\Zoli\source\repos\Epitesz\ConsoleSzoba\obj\Debug\ConsoleSzoba.csproj.AssemblyReference.cache
+C:\Users\Zoli\source\repos\Epitesz\ConsoleSzoba\obj\Debug\ConsoleSzoba.csproj.CoreCompileInputs.cache
+C:\Users\Zoli\source\repos\Epitesz\ConsoleSzoba\obj\Debug\ConsoleS.0D91F685.Up2Date
+C:\Users\Zoli\source\repos\Epitesz\ConsoleSzoba\obj\Debug\ConsoleSzoba.exe
+C:\Users\Zoli\source\repos\Epitesz\ConsoleSzoba\obj\Debug\ConsoleSzoba.pdb
+C:\Users\Zoli\source\repos\Epitesz\ConsoleSzoba\obj\Debug\ConsoleSzoba.exe.config

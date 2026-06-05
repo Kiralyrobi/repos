@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gyebn\u00E1r R\u00F3bert\\source\\repos\\VisitingCard2Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A29B728-F263-4FF1-9608-C48B82FE6D8A}|VisitingCard2\\VisitingCard2.csproj|c:\\users\\gyebn\u00E1r r\u00F3bert\\source\\repos\\visitingcard2solution\\visitingcard2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A29B728-F263-4FF1-9608-C48B82FE6D8A}|VisitingCard2\\VisitingCard2.csproj|solutionrelative:visitingcard2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE1078E-8A64-4C9C-9A18-26E014EA4BDF}|ClassLibrary1Visiting\\ClassLibrary1Visiting.csproj|C:\\Users\\Gyebn\u00E1r R\u00F3bert\\source\\repos\\VisitingCard2Solution\\classlibrary1visiting\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE1078E-8A64-4C9C-9A18-26E014EA4BDF}|ClassLibrary1Visiting\\ClassLibrary1Visiting.csproj|solutionrelative:classlibrary1visiting\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2760BA-E61F-4EDD-AD1B-FBD85A2CF364}|WindowsFormsAppVisiting\\WindowsFormsAppVisiting.csproj|C:\\Users\\Gyebn\u00E1r R\u00F3bert\\source\\repos\\VisitingCard2Solution\\windowsformsappvisiting\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C2760BA-E61F-4EDD-AD1B-FBD85A2CF364}|WindowsFormsAppVisiting\\WindowsFormsAppVisiting.csproj|solutionrelative:windowsformsappvisiting\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Gyebn\u00E1r R\u00F3bert\\source\\repos\\VisitingCard2Solution\\ClassLibrary1Visiting\\Class1.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1Visiting\\Class1.cs",
+              "ToolTip": "C:\\Users\\Gyebn\u00E1r R\u00F3bert\\source\\repos\\VisitingCard2Solution\\ClassLibrary1Visiting\\Class1.cs",
+              "RelativeToolTip": "ClassLibrary1Visiting\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T09:57:52.714Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Gyebn\u00E1r R\u00F3bert\\source\\repos\\VisitingCard2Solution\\WindowsFormsAppVisiting\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsAppVisiting\\Form1.cs",
+              "ToolTip": "C:\\Users\\Gyebn\u00E1r R\u00F3bert\\source\\repos\\VisitingCard2Solution\\WindowsFormsAppVisiting\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsAppVisiting\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T09:57:20.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gyebn\u00E1r R\u00F3bert\\source\\repos\\VisitingCard2Solution\\VisitingCard2\\Program.cs",
+              "RelativeDocumentMoniker": "VisitingCard2\\Program.cs",
+              "ToolTip": "C:\\Users\\Gyebn\u00E1r R\u00F3bert\\source\\repos\\VisitingCard2Solution\\VisitingCard2\\Program.cs",
+              "RelativeToolTip": "VisitingCard2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T09:56:43.855Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
